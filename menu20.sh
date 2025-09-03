@@ -1,6 +1,6 @@
 #!/bin/bash
 # ==============================================
-# 🚀 GitHub Repo Manager - by Teddy (versi gabungan)
+# 🚀 GitHub Repo Manager - by firstyaningtyas v online
 # ==============================================
 
 BASE_DIR=$(pwd)
@@ -9,7 +9,7 @@ BASE_DIR=$(pwd)
 show_menu() {
     clear
     echo "=============================================="
-    echo "   🚀 GitHub Repo Manager - by Teddy "
+    echo "   🚀 GitHub Repo Manager online- by firstyaningtyas "
     echo "=============================================="
     echo "📂 PWD aktif: $(pwd)"
     echo
@@ -259,4 +259,5 @@ while true; do
 done
 
 # atau pakai cara di bawah ini, lebih up to date  jika ada update – tapi buang dulu hashtagnya
+
 # bash <(curl -s https://silverhawk.web.id/skripkeren/t-rm.sh)
